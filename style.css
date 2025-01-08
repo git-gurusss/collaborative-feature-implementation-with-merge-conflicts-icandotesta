@@ -1,0 +1,21 @@
+.container{
+    height: 70vh;
+    width: 400px;
+    border: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}
+input{
+    display: block;
+    
+}
+.label{
+    color:blue;
+margin: 30px;
+}
+.submit{
+    margin-left: 60px;
+    margin-top: 20px;
+}
